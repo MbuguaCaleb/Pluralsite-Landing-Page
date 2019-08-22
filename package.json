@@ -1,0 +1,22 @@
+{
+  "name": "pluralsite",
+  "version": "1.0.0",
+  "description": "``` splitting sizes with flex 1 and 1 ```",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MbuguaCaleb/Pluralsite-Landing-Page.git"
+  },
+  "author": "MbuguaCaleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MbuguaCaleb/Pluralsite-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/MbuguaCaleb/Pluralsite-Landing-Page",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
